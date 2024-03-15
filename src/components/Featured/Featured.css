@@ -1,12 +1,11 @@
 .featured {
     margin-bottom: 100px;
+    margin-top: 200px !important;
 }
 .part1{
     position: relative;
 }
-.featured .part1 .img{
-    width: 100%;
-}
+
 .featured .part1 a{
     display: inline-block;
     width: 110px;

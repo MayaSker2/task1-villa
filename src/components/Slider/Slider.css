@@ -1,10 +1,11 @@
 .carousel {
     width: 100vm !important;
-    height: 100vh !important;
+    height: max-content !important;
     position: relative;
     top: 110px !important;
     margin-bottom: 100px;
 }
+
 
 .carousel-control-next-icon , .carousel-control-prev-icon {
     border-radius: 50% !important;
