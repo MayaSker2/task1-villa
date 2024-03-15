@@ -16,10 +16,10 @@ function App() {
       <BasicNav />
       <Top />
       <Routes>
-        <Route path='/task1-villa/' element={<Home />} />
-        <Route path='/task1-villa/properties' element={<Properties />} />
-        <Route path='/task1-villa/datails' element={<P_Datails />} />
-        <Route path='/task1-villa/contact' element={<Contact_Us />} />
+        <Route path='/' element={<Home />} />
+        <Route path='/properties' element={<Properties />} />
+        <Route path='/datails' element={<P_Datails />} />
+        <Route path='/contact' element={<Contact_Us />} />
       </Routes>
       <Footer />
     </>
