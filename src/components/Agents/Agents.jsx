@@ -19,9 +19,13 @@ const Agents = () => {
                     Thank you for visiting. There is a variety of Bootstrap HTML CSS templates on our website.
                     If you need more information, please contact us.
                     </p>
-                    <Info_Item img={phone} text="010-020-0340" />
-                    <Info_Item img={email} text="info@villa.co" />
-
+                    <div className="row">
+                      <div className='col-lg-6 col-md-12'>
+                      <Info_Item img={phone} text="010-020-0340" />
+                      <Info_Item img={email} text="info@villa.co" />  
+                      </div>
+                    </div>
+                                    
                 </div>
                 <div className="col-lg-6 col-md-12 form">
                   <Form />
