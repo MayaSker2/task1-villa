@@ -33,7 +33,7 @@ function BasicNav() {
             className="me-auto my-2 my-lg-0 list "
             style={{ maxHeight: '100px' }}
             navbarScroll>
-            <Nav.Link href='/'> Home</Nav.Link>
+            <Nav.Link href='/task1-villa/'> Home</Nav.Link>
             <Nav.Link  href='/task1-villa/properties'>Properties</Nav.Link>
             <Nav.Link  href='/task1-villa/datails'>Property Datails</Nav.Link>
             <Nav.Link  href='/task1-villa/contact'>Contact Us </Nav.Link>
