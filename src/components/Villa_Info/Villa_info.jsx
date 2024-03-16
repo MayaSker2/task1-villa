@@ -9,7 +9,7 @@ const Villa_info = () => {
                  <div className='col-lg-12'>
                     <div>
                         <div className='row'>
-                            <div className='col-lg-4'>
+                            <div className='col-lg-4 col-md-12 '>
                                 <div className='box'>
                                     <h2>
                                         34
@@ -21,7 +21,7 @@ const Villa_info = () => {
                                     </p>
                                 </div>
                             </div>
-                            <div className='col-lg-4'>
+                            <div className='col-lg-4 col-md-12'>
                                 <div className='box'>
                                     <h2>
                                         12
@@ -33,7 +33,7 @@ const Villa_info = () => {
                                     </p>
                                 </div>
                             </div>
-                            <div className='col-lg-4'>
+                            <div className='col-lg-4 col-md-12'>
                                 <div className='box'>
                                     <h2>
                                         24

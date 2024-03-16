@@ -74,7 +74,8 @@
     color: #aaa;
     font-weight: 400;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    justify-content: space-between;
 }
 .deal_section .part1 ul li span{
     font-size: 20px;
@@ -94,9 +95,10 @@
 
 }
 .deal_section .part3  p{
-    font-size: 14px;
+    font-size: 16px;
     line-height: 28px;
     color: #4a4a4a;
+    font-weight: 500;
 }
 .deal_section .wrapper{
     width: 15rem !important;
@@ -109,7 +111,7 @@
     background-color: black;
     color: white;
     border-radius: 50px;
-    font-size: 18px;
+    font-size: 19px;
     font-weight: 500;
     padding: 1rem 2rem;
     width: 100%;

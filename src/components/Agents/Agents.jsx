@@ -12,7 +12,7 @@ const Agents = () => {
             <div className="row">
                 <div className="col-lg-6 col-md-12">
                     <h6>| Contact Us</h6>
-                    <h2>Get In Touch With Our Agents</h2>
+                    <h2>Get In Touch<br/> With Our<br/> Agents</h2>
                     <p>
                     When you really need to download free CSS templates,
                     please remember our website TemplateMo. Also, tell your friends about our website. 

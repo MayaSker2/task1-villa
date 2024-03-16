@@ -44,7 +44,7 @@
 }
 .page-item .page-link {
     border-radius: 50%;
-    margin-right: 20px;
+    margin-right: 10px;
 }
 .page-item .page-link {
     border-radius: 50% !important;
@@ -56,9 +56,3 @@
     border-color: #f35525 !important;
     
 }
-/* @media screen and (max-width:1092px) {
-    .Pagintion .buttons{
-        flex-direction: column !important;
-    }
-
-} */
