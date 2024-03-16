@@ -1,3 +1,6 @@
+.agents{
+    height: max-content;
+}
 .agents h6{
     color: rgb(238, 98, 107);
     font-size: 17px;

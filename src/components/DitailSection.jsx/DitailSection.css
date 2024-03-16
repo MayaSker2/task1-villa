@@ -1,5 +1,6 @@
 .ditailsection {
     margin-bottom: 100px;
+    height: max-content;
 }
 .ditailsection .datail_img{
     overflow: hidden;
