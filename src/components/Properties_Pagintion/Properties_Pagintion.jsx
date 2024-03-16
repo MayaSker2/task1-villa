@@ -85,7 +85,7 @@ const Properties_Pagintion = () => {
 
         <div className="container">
             <div className="row">
-                <div className=' col-lg-12 offset-lg-3'>
+                <div className=' col-lg-12 offset-lg-0'>
                     <div className="buttons">
                         <Red_Button   btnR="Show All" />
                         <Black_Button btnB="Apartment" />
