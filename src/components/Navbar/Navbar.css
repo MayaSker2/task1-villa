@@ -26,7 +26,7 @@
 }
 .list{
     display: flex !important;
-    gap: 35px !important;
+    gap: 27px !important;
 }
 .nav-link{
     font-size: 20px !important;
@@ -39,7 +39,7 @@
 }
 .navbar-collapse {
     flex-grow: 0 !important;
-    gap: 45px;
+    gap: 35px;
     align-items: center;
 }
  .wrapper{
