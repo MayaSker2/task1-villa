@@ -1,12 +1,12 @@
  
 .navbar{
     width: 100% !important;
-    height: 110px;
-    padding: 40px 100px !important;
+    padding: 20px 100px !important;
     position: fixed !important;
     top: 70px !important;
     z-index: 4;
     background-color: white;
+    height: max-content;
 
 }
 .navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
